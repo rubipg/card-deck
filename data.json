@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Antony Santos",
+        "songs": [
+            "Corazón Culpable",
+            "Dónde Estará",
+            "Pégame Tu Vicio"
+        ],
+        "image": "img/Antony.JPG"
+    },
+    {
+        "name": "Joe Veras",
+        "songs": [
+            "Se Te Nota",
+            "El Hombre De Tu Vida",
+            "Que Se Mueran De Envidia"
+        ],
+        "image": "img/Joe.jpg"
+    },
+    {
+        "name": "Raulin Rodriguez",
+        "songs": [
+            "Nereyda",
+            "Medicina De Amor",
+            "Dame Tu Querer"
+        ],
+        "image": "img/Raulin.JPG"
+    },
+    {
+        "name": "Romeo Santos",
+        "songs": [
+            "Propuesta Indecente",
+            "Imitadora",
+            "Llévame Contigo"
+        ],
+        "image": "img/Romeo.JPG"
+    },
+    {
+        "name": "Dalvin La Melodia",
+        "songs": [
+            "Mi Reina",
+            "Alma Rota",
+            "Amnesia"
+        ],
+        "image": "img/Dalvin.JPG"
+    }
+]

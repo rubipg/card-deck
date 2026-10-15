@@ -1,0 +1,69 @@
+/* Style the whole webpage */
+body {
+    background-color: #650d1b;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Style the title */
+h1 {
+    text-align: center;
+    color: white;
+    margin-bottom: 30px;
+}
+
+/* Arrange the artist cards in a row */
+#artist_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* Style each artist card */
+.card {
+    background-color: black;
+    border: 3px solid #7d2431;
+    border-radius: 12px;
+    max-width: 180px;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 8px 10px 8px black;
+    cursor: pointer;
+}
+
+/* Make the artist photos fit inside the cards */
+.card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+/* Style the artist names */
+.card h2 {
+    color: white;
+    font-size: 21px;
+}
+
+/* Style the 3 HIT SONGS heading */
+.card h3 {
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+/* Style the song names */
+.card p {
+    color: white;
+    font-size: 14px;
+}
+
+/* Highlight a card when it is clicked */
+.selected {
+    border: 3px solid black;
+    background-color: #c50727;
+    box-shadow: 8px 10px 8px #ded6cf;
+}
